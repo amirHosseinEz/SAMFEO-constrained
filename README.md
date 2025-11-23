@@ -64,6 +64,5 @@ NNNRAAA     <-- You type the constraints
 
 ## 🔗 References
 
-If you use this code or the SAMFEO method, please cite the original paper:
-
-**[1] Zhou, T., Dai, N., Li, S., Ward, M., Mathews, D.H. and Huang, L., 2023. RNA design via structure-aware multifrontier ensemble optimization. Bioinformatics, 39(Supplement_1), pp.i563-i571.**
+Zhou, T., Dai, N., Li, S., Ward, M., Mathews, D.H. and Huang, L., 2023. RNA design via structure-aware multifrontier ensemble optimization. *Bioinformatics*, 39(Supplement_1), pp.i563-i571.
+    [https://github.com/shanry/SAMFEO](https://github.com/shanry/SAMFEO)
