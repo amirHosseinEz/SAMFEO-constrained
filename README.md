@@ -49,6 +49,11 @@ NNNRAAA     <-- You type the constraints
 | **W** | A, U | Weak Interaction |
 | **K** | G, U | Keto |
 | **M** | A, C | Amino |
+| **B** | C, G, U | Not A |
+| **D** | A, G, U | Not C |
+| **H** | A, C, U | Not G |
+| **V** | A, C, G | Not U |
+| **. or -** | None | Gap |
 
 ## 📦 Requirements
 
